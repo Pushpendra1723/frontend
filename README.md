@@ -1,10 +1,10 @@
 [LIVE🔴](https://fronted-tensorgo-pushpendra.onrender.com/)
-# Login Page ![Screenshot (255)](https://github.com/Pushpendra1723/frontend/assets/94159743/cdccee2b-e10b-4e24-b494-6ce55427fec1
-)
-# Enrolled Users ![Screenshot (254)](https://github.com/Pushpendra1723/frontend/assets/94159743/cc7c2f97-79e9-4619-90f9-1d336c97b03d
-)
-# Edit Users ![Screenshot (256)](https://github.com/Pushpendra1723/frontend/assets/94159743/e312ede5-c9aa-4c0f-8894-83ec467b935c
-)
+# Login Page ![Screenshot (255)](https://github.com/Pushpendra1723/frontend/assets/94159743/a45d7d4d-da48-43a5-bd0a-57d1c5ade101)
+
+# Enrolled Users ![Screenshot (254)](https://github.com/Pushpendra1723/frontend/assets/94159743/96dfda67-d347-40bf-a9c0-27449e74dac3) 
+
+# Edit Users ![Screenshot (256)](https://github.com/Pushpendra1723/frontend/assets/94159743/8b2eec9c-741b-47ef-a42b-4499d03eba01)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
